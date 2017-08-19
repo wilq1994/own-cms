@@ -1,2 +1,1 @@
-# own-cms
-Own CMS created for bloging.
+# Own CMS created for bloging.
